@@ -177,7 +177,7 @@ h1 {
 .parameter p:first-of-type{
     font-size: 1.15rem;
     font-weight:600;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .parameter p:last-of-type{
